@@ -10,7 +10,7 @@ const LoginPage = () => {
                 <form className="login-form">
                     <span className="login-form-tittle">Bem vindo</span>
                     <span className="login-form-title">
-                      
+                      {/* insira imagem aqui */}
                     </span>
 
                     <div className='wrap-input'>
