@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: center;
+    box-sizing: border-box;
+  }
+
+.app-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    
+}
+
+
+.register-container{
+    padding: 10x 20px;
+    border: 1px solid black;
+    width: max-content;
+    height: max-content;
+    border-radius: 5px;
+    margin-top: 20px;
+  
+}
+
+.register-title {
+    text-align: center;
+    margin-bottom: block;
+    font-family: monospace;
+}
+
+
+.register-input{
+    display: block;
+    padding: 7px auto;
+    margin: 10px auto;
+}
+
+.button-add {
+    margin-left: auto;
+}
+
+.button-edit {
+    
+}
+
+.button-del{
+    margin-right: auto;
+}
